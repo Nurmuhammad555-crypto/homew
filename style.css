@@ -1,0 +1,16 @@
+.black {
+    width: auto;
+    height: 70px;
+}
+
+.mate {
+    width: 200px;
+    color: black;
+    height: 200px;
+    margin: auto;
+    
+}
+
+.rasm {
+    margin-left: 60px;
+}
